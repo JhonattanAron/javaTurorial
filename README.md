@@ -1,2 +1,2 @@
 # javaTurorial
-tutorialJava
+Herencia en Java
